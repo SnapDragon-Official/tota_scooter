@@ -1,5 +1,7 @@
 # tota_scooter
 
+https://www.fivemsociety.com/konu/scooter-kiralama-scripti-scooter-araci.362/
+
 **Kurulum**
 
 - **scooterRent** klasörüne **server.cfg**'den start veriyoruz. (script)
